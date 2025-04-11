@@ -1,3 +1,5 @@
+https://three-ezinstancedmesh2-dynamic-bvh-cmdalhx5.stackblitz.io
+
 # PBR - 1,000,000 Spheres
 
 A high-performance Three.js visualization that renders 1,000,000 spheres with physically-based rendering (PBR) materials. This project demonstrates efficient instanced rendering techniques using Three.js and the @three.ez libraries.
